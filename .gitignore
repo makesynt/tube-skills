@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local credentials and generated artifacts
+.env
+.env.*
+youtube-token*.json
+client_secret*.json
+*-output.json
+*-report.html

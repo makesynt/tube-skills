@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Audience Bullseye"
+  short_description: "Map the audience rings for a channel"
+  default_prompt: "Use $youtube-audience-bullseye-builder to define the five audience rings and content mix for my YouTube channel."

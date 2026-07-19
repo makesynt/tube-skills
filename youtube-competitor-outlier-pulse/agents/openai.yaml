@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Competitor Outlier Pulse"
+  short_description: "Track competitor videos worth studying"
+  default_prompt: "Use $youtube-competitor-outlier-pulse to summarize recent competitor outlier videos."

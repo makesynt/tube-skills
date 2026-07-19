@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Trend Jacking Finder"
+  short_description: "Find trend-led YouTube cold-start ideas"
+  default_prompt: "Use $youtube-trend-jacking-finder to find trend-jacking video ideas for my niche."

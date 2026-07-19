@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Retention Script Builder"
+  short_description: "Generate hooks and build retention scripts"
+  default_prompt: "Use $youtube-retention-script-builder to generate and score hooks, then build a high-retention YouTube script for this topic."

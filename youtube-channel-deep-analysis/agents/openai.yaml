@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Channel Deep Analysis"
+  short_description: "Extract winning patterns from channels"
+  default_prompt: "Use $youtube-channel-deep-analysis to analyze this YouTube channel and identify repeatable growth patterns."

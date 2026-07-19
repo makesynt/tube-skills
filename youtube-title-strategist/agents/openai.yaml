@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Title Strategist"
+  short_description: "Create and score CTR-focused YouTube titles."
+  default_prompt: "Use $youtube-title-strategist to create title options for this video."
