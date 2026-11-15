@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="bgDusk" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1633"/>
+      <stop offset="58%" stop-color="#3E274B"/>
+      <stop offset="100%" stop-color="#8C4E52"/>
+    </linearGradient>
+    <linearGradient id="rimGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD98E"/>
+      <stop offset="100%" stop-color="#F3A953"/>
+    </linearGradient>
+  </defs>
+  <!-- 12% margin rounded squircle badge -->
+  <rect x="28" y="28" width="200" height="200" rx="46" fill="url(#bgDusk)" stroke="url(#rimGold)" stroke-width="5"/>
+  <!-- Dusk horizon glow & physics wave -->
+  <circle cx="168" cy="156" r="34" fill="#FFE6A8" opacity="0.28"/>
+  <path d="M 48 176 Q 92 162, 128 176 T 208 176" fill="none" stroke="#7ECAFF" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Stickman Hoodie Torso & Limbs -->
+  <path d="M 116 124 L 92 148 M 132 124 L 164 110 M 118 164 L 102 198 M 130 164 L 148 194" stroke="#0E1017" stroke-width="11" stroke-linecap="round"/>
+  <rect x="110" y="118" width="28" height="48" rx="9" fill="#4A8FE7" stroke="url(#rimGold)" stroke-width="2.5"/>
+  <line x1="120" y1="124" x2="118" y2="138" stroke="#F8FAFC" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="127" y1="124" x2="128" y2="139" stroke="#F8FAFC" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Signature Black Circle Head + Golden Crescent Rim + Luminous White Eyes -->
+  <circle cx="126" cy="92" r="28" fill="#0B0D13"/>
+  <path d="M 132 65 A 27 27 0 0 1 149 109" fill="none" stroke="url(#rimGold)" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="119" cy="91" rx="5.5" ry="6.5" fill="#FFFFFF"/>
+  <ellipse cx="136" cy="91" rx="5.5" ry="6.5" fill="#FFFFFF"/>
+  <circle cx="121" cy="90" r="2.2" fill="#0B0D13"/>
+  <circle cx="138" cy="90" r="2.2" fill="#0B0D13"/>
+</svg>

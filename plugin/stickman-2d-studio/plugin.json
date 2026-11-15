@@ -1,0 +1,12 @@
+{
+  "name": "stickman-2d-studio",
+  "displayName": "Stickman 2D Studio",
+  "version": "1.0.0",
+  "description": "End-to-end 2D vector stickman What-If & science animation studio for Antigravity + Gemini 4 Carbon: interactive STORY LOCK + FACT BANK scriptwriting, 44.1kHz waveform sync, 5 cinema themes, and Contact-Sheet visual QC via HyperFrames.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "启动 stickman-story-lock 6 问向导，帮我策划一期硬核日常脑洞火柴人剧本",
+    "基于目录内的配音音频，使用 dusk 微光暮色主题生成 1080p 真矢量火柴人短片",
+    "抽检 16 宫格快照联系表，核查角色骨骼接触、前景遮挡与卡拉OK字幕同步"
+  ]
+}
