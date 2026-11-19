@@ -87,7 +87,7 @@ def main() -> int:
                 "ffmpeg", "-y", "-loglevel", "error",
                 "-i", str(music_tmp), "-i", str(vo_tmp),
                 "-filter_complex",
-                "[0:a]volume=0.35[m];[1:a]volume=1.0[v];[m][v]amix=inputs=2:duration=longest:normalize=0,loudnorm=I=-16:TP=-1.5:LRA=11",
+                "[0:a]volume=0.35[m];[1:a]volume=1.0[v];[m][v]amix=inputs=2:duration=longest:dropout_transition=0,volume=1.8,loudnorm=I=-16:TP=-1.5:LRA=11",
                 "-ar", "48000", "-ac", "2", str(out_path),
             ],
             check=True,
