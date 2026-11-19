@@ -1,0 +1,18 @@
+{
+  "title": "The Straw Hat",
+  "duration": 13,
+  "fps": 24,
+  "shots": [
+    { "name": "hillside-wide", "at": 0 },
+    { "name": "the-post", "at": 4.5 },
+    { "name": "into-the-sky", "at": 9 }
+  ],
+  "cues": {
+    "first-breeze": 1.2,
+    "gust": 6.0,
+    "rock": 6.5,
+    "lift": 7.4,
+    "gone": 8.6,
+    "sky-tumble": 10.2
+  }
+}

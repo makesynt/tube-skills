@@ -1,0 +1,17 @@
+{
+  "title": "Playtime in the Meadow",
+  "duration": 12,
+  "fps": 24,
+  "shots": [
+    { "name": "meadow-wide", "at": 0 },
+    { "name": "the-throw", "at": 4 },
+    { "name": "the-catch", "at": 8 }
+  ],
+  "cues": {
+    "walk-start": 0.4,
+    "throw": 5.1,
+    "ball-lands": 6.5,
+    "catch": 9.0,
+    "title": 9.8
+  }
+}

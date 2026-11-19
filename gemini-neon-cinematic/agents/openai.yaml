@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini Neon Cinematic"
+  short_description: "Create Ghibli-inspired 2D hand-drawn cinematic animations with tapered ink, watercolor plates, and optional Lyria score using Gemini 4 Neon"
+  default_prompt: "Use $gemini-neon-cinematic to create a hand-drawn 2D cinematic animation as a standalone HTML + 1080p MP4."

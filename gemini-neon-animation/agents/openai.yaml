@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini Neon Animation"
+  short_description: "Create cinematic 3D/WebGL animations (Storybook, Photoreal, Retro, Constellation) with Gemini 4 Neon + optional Gemini TTS & Lyria score"
+  default_prompt: "Use $gemini-neon-animation to create a cinematic 3D animated video as a standalone HTML + 1080p MP4."

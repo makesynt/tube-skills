@@ -1,0 +1,4 @@
+#!/bin/bash
+# Runs Python with numpy + scipy: the skill's venv if setup made one, else the system python3.
+V="$HOME/.cache/animation-skill/venv/bin/python3"
+[ -x "$V" ] && exec "$V" "$@" || exec python3 "$@"

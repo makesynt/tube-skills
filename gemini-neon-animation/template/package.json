@@ -1,0 +1,15 @@
+{
+  "name": "animation-project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audio": "./py audio/audio.py build/audio.wav",
+    "build": "node build.mjs",
+    "stills": "node render.mjs --stills",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.0",
+    "three": "^0.187.0"
+  }
+}
