@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini Neon Documentary"
+  short_description: "Create narrated archival evidence-board + 12fps vintage 2D documentaries with Gemini 4 Neon as standalone HTML + 1080p MP4"
+  default_prompt: "Use $gemini-neon-documentary to create a narrated archival documentary video with continuous board camera and 12fps vintage 2D inserts."

@@ -1,0 +1,13 @@
+{
+  "title": "Polar Log Starter",
+  "slug": "polar-log-starter",
+  "fps": 30,
+  "duration": 12.0,
+  "surface": "nautical",
+  "sound_cues": [
+    { "kind": "card", "t": 0.6 },
+    { "kind": "circle", "t": 2.4 },
+    { "kind": "projector", "t": 4.8, "dur": 4.2 },
+    { "kind": "stamp", "t": 9.6 }
+  ]
+}

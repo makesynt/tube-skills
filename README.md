@@ -12,6 +12,7 @@ Six agent skills for building a repeatable YouTube research, packaging, and rete
 - `youtube-retention-script-builder`: turn a hook and topic into a paced retention plan and production-ready script structure.
 - `gemini-neon-animation`: create cinematic 3D/WebGL animations (Storybook 3D, Photorealism, Retro, Constellation Line Art, or custom reference styles) with Gemini 4 Neon as a standalone HTML + 1080p MP4, with optional Gemini TTS & Google Lyria music upgrade via `.env`. Includes a zero-setup copy-paste prompt (`prompts/copy-paste-prompt.md`).
 - `gemini-neon-cinematic`: create Ghibli-inspired 2D hand-drawn cinematic sequences (tapered ink lines, watercolor/gouache painted plates, acting on twos) with Gemini 4 Neon as a standalone HTML + 1080p MP4, with optional Gemini TTS & Google Lyria score.
+- `gemini-neon-documentary`: create narrated investigative, historical, science, and engineering documentaries with Gemini 4 Neon — combining a continuous-camera 3D-parallax Evidence Board (verified public-domain archival photos, nautical/blueprint/microfilm surfaces, voice-locked crimson ink circles, taut strings, typewriter tags, rubber stamps) with seamless 12fps boiling-ink vintage 2D reconstructions (`copperplate` / `cyanotype`), delivered as a standalone HTML + 1080p MP4 (`-14 LUFS`).
 
 ## Shared Helper
 
@@ -42,6 +43,7 @@ youtube-title-strategist/
 youtube-trend-jacking-finder/
 gemini-neon-animation/
 gemini-neon-cinematic/
+gemini-neon-documentary/
 plugin/
   stickman-2d-studio/
 ```
